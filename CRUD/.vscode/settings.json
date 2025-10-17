@@ -1,0 +1,21 @@
+{
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "chat.detectParticipant.enabled": false,
+    "chat.extensionTools.enabled": false,
+    "chat.emptyChatState.enabled": false,
+    "inlineChat.lineNaturalLanguageHint": false,
+    "inlineChat.holdToSpeech": false,
+    "chat.useFileStorage": false,
+    "chat.useAgentsMdFile": false,
+    "chat.undoRequests.restoreInput": false,
+    "chat.tools.terminal.enableAutoApprove": false,
+    "chat.showAgentSessionsViewDescription": false,
+    "chat.sendElementsToChat.enabled": false,
+    "chat.sendElementsToChat.attachImages": false,
+    "chat.sendElementsToChat.attachCSS": false,
+    "chat.promptFiles": false,
+    "chat.notifyWindowOnConfirmation": false,
+    "chat.math.enabled": false,
+    "chat.implicitContext.suggestedContext": false
+}
